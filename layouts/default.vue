@@ -8,7 +8,7 @@
       <div class="demo">
         <div class="container">
           <h1>
-            vue-sidebar-menu
+            vue-sidebar-menuaaaaaaaaaaaaa
             <a
               style="color: #000;text-transform: uppercase;font-size: 14px;font-weight: 400;"
               href="https://github.com/yaminncco/vue-sidebar-menu"
